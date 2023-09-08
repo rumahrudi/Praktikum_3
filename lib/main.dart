@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 // import 'icon.dart';
-import 'text.dart';
+// import 'text.dart';
+// import 'container.dart';
+// import 'box.dart';
+// import 'button.dart';
+// import 'form.dart';
+import 'alert.dart';
 
 void main() {
-  runApp(MyAppText());
+  runApp(MyAppAlert());
 }
 
 class MyApp extends StatelessWidget {
